@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'brick_breaker' target in the 'brick_breaker' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
